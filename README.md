@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ayoub Ahmed</h1>
 <h3 align="center">Software developer</h3>
-<img   align="right" alt="coding"  width="400" src=" ![image](https://github.com/EngAyub/EngAyub/assets/99149754/eb2dffe9-642b-4d6e-9da1-c2f23b636388)
-  ">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=engayub&label=Profile%20views&color=0e75b6&style=flat" alt="engayub" /> </p>
 
