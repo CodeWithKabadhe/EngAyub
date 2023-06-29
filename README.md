@@ -5,8 +5,8 @@
 
 <h1 align="center">
   <div align="center" style="margin: 40px 0">
-      <a 
-          <img width="175px" src="https://komarev.com/ghpvc/?username=muztaphe14&label=Profile%20views&color=0e75b6&style=flat" alt="EngAyub"/>
+      <a href="https://github.com/topdev0729/github-profile-views-counter">
+          <img width="175px" src="https://komarev.com/ghpvc/?username=topdeveloper0729&color=DE002D">
       </a>
   </div>
 </h1>
