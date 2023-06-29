@@ -1,12 +1,26 @@
-<h1 align="center">Hi 👋, I'm Ayoub Ahmed kabadhe</h1>
+<h1 align="center">Hi 👋, I'm Ayoub Ahmed </h1>
 
-<p align="left"> <a href="https://twitter.com/eng_ayup" target="blank"><img src="https://img.shields.io/twitter/follow/eng_ayup?logo=twitter&style=for-the-badge" alt="eng_ayup" /></a> </p>
+<hr>
+
+
+<h1 align="center">
+  <div align="center" style="margin: 40px 0">
+      <a href="https://github.com/topdev0729/github-profile-views-counter">
+          <img width="175px" src="https://komarev.com/ghpvc/?username=topdeveloper0729&color=DE002D">
+      </a>
+  </div>
+  <div align="center" style="margin: 40px 0">
+      <!-- Followers -->
+      <a href="https://github.com/halac?tab=followers">
+          <img width="120px" height="25px" style="border-radius: 3px" src="https://img.shields.io/github/followers/halac?style=flat-square">
+      </a>
+  </div>
+</h1>
+
 
 - 🌱 I’m currently learning **Full Stack developer**
 
 - 💬 Ask me about **JavaScript & React**
-
-- ⚡ Fun fact **I am Funy**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
