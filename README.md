@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Ayoub Ahmed </h1>
-
 <hr>
 
 - 🌱 I’m currently learning **full stack web developer**
