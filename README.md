@@ -2,7 +2,7 @@
 <hr>
 
 # 💫 About Me:
-🌱 I’m currently learning 🚀 Full Stack Software Developer❤️| MERN Stack Specialist | Web 🌐 |<br><br>💬 Ask me about MERN Stack<br><br>📫 How to reach me engayup4@gmail.com<br>
+🌱 I’m currently learning 🚀 Full Stack Software Developer❤️| MERN Stack Specialist | Web 🌐 |<br><br>💬 Ask me about 🧑‍💻MERN Stack 🚀<br><br>📫 How to reach me engayup4@gmail.com<br>
 
 
 ## 🌐 Socials:
